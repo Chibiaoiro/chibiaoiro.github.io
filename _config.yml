@@ -1,6 +1,7 @@
 titile: Chibiaoiroのサイト
 description: Chibiaoiro用のサイト
 show_downloads: false
+logo: /logo.png
 google_analytics: G-MF2HLJWB86
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
